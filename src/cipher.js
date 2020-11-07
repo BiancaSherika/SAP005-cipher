@@ -1,6 +1,4 @@
 const cipher = {
-// HIJKLMNOPQRSTUVWXYZABCDEFG
-// ABCDEFGHIJKLMNOPQRSTUVWXYZ
 
   decode(offset, mensagem) {
     let mensagemTraduzida = "";
