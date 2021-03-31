@@ -1,6 +1,6 @@
 # Tradutor de Pet :dog: :cat:
 
-Acesse a aplicação neste link: https://biancasherika.github.io/Tradutor-de-Pet/
+Acesse a aplicação neste link: https://biancasherika.github.io/tradutor-de-pet/
 
 ### Apresentação
 O tradutor de Pets é uma ferramenta de simulação que visa realizar a tradução fictícia da linguagem de animais domésticos baseand-se em sua idade. Foi desenvoldio por e para mães e pais de animais de estimação.
